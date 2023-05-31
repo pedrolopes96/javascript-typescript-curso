@@ -1,7 +1,7 @@
+//Lidando com Caracteres
 let umaString = "Um \"texto\"";
-console.log(umaString);
+console.log(umaString); 
 
-//Posição de um caractere
 let outraString = "pedro lopes";
 console.log(outraString[4]);
 console.log(outraString.charAt(3));
