@@ -3,7 +3,7 @@ console.log(`Meu nome é "Pedro Fernandes Lopes". Estou aprendendo JavaScript à
 // Comentário de uma linha
 
 /*
-Comentário com várias
+Comentário com várias linhas
 
 */
 
