@@ -3,5 +3,4 @@
 
 let nome = `Pedro`;
 nome = `João`;
-
 console.log(nome);
