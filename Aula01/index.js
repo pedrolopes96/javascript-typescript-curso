@@ -4,8 +4,8 @@ console.log('Pedro Fernandes');
 console.log(`Pedro Fernandes Lopes`);
 
 //Template Strings
-let idade = 10;
-console.log(`Nome: ${idade}`);
+let idade = 26;
+console.log(`Idade: ${idade}`);
 
 //Literais
 console.log(1050, 50.10);
