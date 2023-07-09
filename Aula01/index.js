@@ -7,6 +7,6 @@ console.log(`Pedro Fernandes Lopes`);
 let idade = 26;
 console.log(`Idade: ${idade}`);
 
-console.log("Hello, world!");
+
 
 
